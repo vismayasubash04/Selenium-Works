@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-10T23:05:11 IST" name="Default suite" finished-at="2026-11-10T23:05:14 IST" duration-ms="3206">
+    <groups>
+    </groups>
+    <test started-at="2026-11-10T23:05:11 IST" name="Default test" finished-at="2026-11-10T23:05:14 IST" duration-ms="3206">
+      <class name="testngpackage.SoftAssertionpgm">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpackage.SoftAssertionpgm@41a2befb]" started-at="2026-11-10T23:05:11 IST" name="setup" finished-at="2026-11-10T23:05:14 IST" duration-ms="3078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logoverification()[pri:0, instance:testngpackage.SoftAssertionpgm@41a2befb]" started-at="2026-11-10T23:05:14 IST" name="logoverification" finished-at="2026-11-10T23:05:14 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoverification -->
+        <test-method signature="titleverification()[pri:0, instance:testngpackage.SoftAssertionpgm@41a2befb]" started-at="2026-11-10T23:05:14 IST" name="titleverification" finished-at="2026-11-10T23:05:14 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleverification -->
+      </class> <!-- testngpackage.SoftAssertionpgm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
